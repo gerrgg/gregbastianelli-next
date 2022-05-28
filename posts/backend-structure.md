@@ -3,10 +3,6 @@ title: "Structure Of Backend Application"
 date: "2022-06-08"
 ---
 
-# Structure of backend application, introduction to testing
-
-## Project structure
-
 Before we move into the topic of testing, we will modify the structure of our project to adhere to Node.js best practices.
 
 After making the changes to the directory structure of our project, we end up with the following structure:
